@@ -24,7 +24,7 @@
                 <h3 class="my-3 text-center">MERN</h3>
                 <div class="row tools-img gx-5">
                     <div class="col-6 tools-img">
-                        <img src="./images/tools/mongodb.svg" class="img-fluid">
+                        <img src="/images/tools/mongodb.svg" class="img-fluid">
                     </div>
                     <div class="col-6 tools-img">
                         <img src="/images/tools/expressjs.svg" class="img-fluid">
